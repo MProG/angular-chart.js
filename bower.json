@@ -39,18 +39,15 @@
   ],
   "dependencies": {
     "angular": "1.x",
-    "Chart.js": "ignat-zakrevsky/Chart.js#b57b4907485c5d84396bbc66f99481458a455c69"
+    "Chart.js": "ignat-zakrevsky/Chart.js#955a69188406a44d3933c906296bb3268b08ccb4"
   },
   "devDependencies": {
     "angular-bootstrap": "~0.11.0",
     "font-awesome": "~4.1.0",
     "rainbow": "~1.1.9",
-    "Chart.StackedBar.js": "~1.0.1",
     "angular-mocks": "~1.3.10"
   },
   "resolutions": {
-    "Chart.js": "b57b4907485c5d84396bbc66f99481458a455c69",
-    "angular": "1.x",
-    "angular-mocks": "1.3.10"
+    "Chart.js": "955a69188406a44d3933c906296bb3268b08ccb4"
   }
 }
